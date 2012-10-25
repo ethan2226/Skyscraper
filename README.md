@@ -19,9 +19,7 @@ Your system should have the Skyscraper recommended specs (2.0 GHz or better CPU,
 My specs are listed below, just in case you need them.
 > OS:  Mac OS X 10.8.2 (15" Early 2011 MacBook Pro)
 > CPU: 2.0 GHz quad-core Intel Core i7 with Turbo Boost
-> GPU:
-> > Intel HD Graphics 3000, 384 MB VRAM
-> > AMD Radeon HD 6490M, 256 MB VRAM (used for Skyscraper)
+> GPU: Intel HD Graphics 3000, 384 MB VRAM and AMD Radeon HD 6490M, 256 MB VRAM (automatic graphics card switching - Generally the AMD card is used in S-Sim.)
 > RAM: 4GB (2x2GB) 1333MHz DDR3 SDRAM
 
 ## HOW TO INSTALL in Skyscraper without cloning
