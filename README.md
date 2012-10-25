@@ -17,28 +17,28 @@ All content on this Git repository is licensed under a [Creative Commons Attribu
 Your system should have the Skyscraper recommended specs (2.0 GHz or better CPU, 2 GB or more RAM, 64+ MB RAM on video card) to optimize your experience, although minimum requirements (1.0 GHz CPU, 512 MB RAM, 32 MB video card RAM) will get you by.
 
 My specs are listed below, just in case you need them.
-    OS:  Mac OS X 10.8.2 (15" Early 2011 MacBook Pro)
-    CPU: 2.0 GHz quad-core Intel Core i7 with Turbo Boost
-    GPU: - Intel HD Graphics 3000, 384 MB VRAM
-         - AMD Radeon HD 6490M, 256 MB VRAM (used for Skyscraper)
-    RAM: 4GB (2x2GB) 1333MHz DDR3 SDRAM
+> OS:  Mac OS X 10.8.2 (15" Early 2011 MacBook Pro)
+> CPU: 2.0 GHz quad-core Intel Core i7 with Turbo Boost
+> GPU:
+> > Intel HD Graphics 3000, 384 MB VRAM
+> > AMD Radeon HD 6490M, 256 MB VRAM (used for Skyscraper)
+> RAM: 4GB (2x2GB) 1333MHz DDR3 SDRAM
 
 ## HOW TO INSTALL in Skyscraper without cloning
 
-___Note:_ This assumes that you have correctly installed Skyscraper CS 9/13/12 or later! See the wiki article for a complete tutorial.__
+___Note:_ This assumes that you have correctly installed Skyscraper CS 9/13/12 or later and the latest edition of [G1DP](http://gooper1datapack.weebly.com/downloads.html)! See the wiki article for a complete tutorial.__
 
-1. Download the repository. To do that, click the ZIP button at the top to download chiefbozx-Skyscraper-[#######].zip (####### is the commit number). Or go to the [downloads page](https://github.com/chiefbozx/Skyscraper/downloads) for notable versions of the pack (which are usually just old commits) and single buildings.
-2. Extract the ZIP file to your skyscraper/buildings folder. Overwrite everything if prompted.
-3. In Skyscraper, click "Other building" and then choose the .bld file to run it. Old files are in /chiefbozx-old/[project name].
-4. __DO NOT MOVE the chiefbozx-meta folder!__ That will break everything!
+1. Download the repository. To do that, click the ZIP button at the top to download `chiefbozx-Skyscraper-[#######].zip` (`#######` is the commit number). Or go to the [downloads page](https://github.com/chiefbozx/Skyscraper/downloads) for notable versions of the pack (which are usually just old commits) and single buildings.
+2. Extract the ZIP file to your `skyscraper/buildings` folder. Overwrite everything if prompted.
+3. In Skyscraper, click "Other building" and then choose the `.bld` file to run it. Old files are in `/chiefbozx-old/[project name]`.
 
 ## HOW TO INSTALL by cloning the repository
 
-If you know how to clone the repository, click the Clone button. Target your save to the skyscraper/buildings folder and name it appropriately (`chiefbozx` is a good title). Do note that you will be navigating through an extra layer of folders to get to my stuff if you clone! To update, just pull from GitHub to your clone.
+If you know how to clone the repository, click the Clone button. Target your save to the `skyscraper/buildings` folder and name it appropriately (`chiefbozx` is a good title). Do note that you will be navigating through an extra layer of folders to get to my stuff if you clone! To update, just pull from GitHub to your clone. Again make sure you have G1DP.
 
 ## A note about data
 
-My stuff depends on the Skyscraper textures included in the Gooper1 Data Pack. Download the latest version of the G1DP Base, Buildings and Starter packs and combine everything in your data folder. See the wiki for help on that.
+My stuff depends on the Skyscraper textures included in the [Gooper1 Data Pack](http://gooper1datapack.weebly.com/downloads.html). Download the latest version of the G1DP Base, Buildings and Starter packs and combine everything in your data folder. See the wiki for help on that.
 
 # Developing
 
