@@ -1,9 +1,9 @@
 <Include data/scripts/elevator_doors.txt>
 <Globals>
-	Name = Chiefboz Tower
-	Designer = Chiefboz
+	Name = Tower X
+	Designer = Chiefbozx
 	Location = 2500 Gateway Pl W, Prism
-	Description = Chiefboz's first hand coded building
+	Description = Chiefbozx's first hand coded building
 	Version = 1
 	CameraFloor = 86
 	CameraPosition = 0, -190
