@@ -36,7 +36,7 @@ If you know how to clone the repository, click the Clone button. Target your sav
 
 ## A note about data
 
-My stuff depends on the Skyscraper textures included in the [Gooper1 Data Pack](http://gooper1datapack.weebly.com/downloads.html). Download the latest version of the G1DP Base, Buildings and Starter packs and combine everything in your data folder. See the wiki for help on that.
+My stuff depends on the Skyscraper textures included in the [Gooper1 Data Pack](http://gooper1datapack.weebly.com/downloads.html). Download the latest version of the G1DP Base Pack and the G1DP Buildings Add-On Pack and extract everything to your root (Skyscraper) folder. See the wiki or G1DP's help page for help on that.
 
 # Developing
 
